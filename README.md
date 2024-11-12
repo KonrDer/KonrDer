@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KonrDer
-- 👀 I’m interested in machine learning and developing Computer systems.
+- 👀 I’m interested in machine learning and developing simple applications and tools.
 - 🌱 I’m currently learning Java, Python, C++
 - 📫 How to reach me konradh03@gmail.com
 
