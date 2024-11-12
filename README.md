@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KonrDer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning and developing Computer systems.
+- 🌱 I’m currently learning Java, Python, C++
 - 📫 How to reach me konradh03@gmail.com
 
 <!---
